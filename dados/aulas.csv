@@ -1,0 +1,16 @@
+id_aula,nome_aula,id_professor
+1,Introdução a Dados,1
+2,Estatística Básica,4
+3,Modelagem de Dados,5
+4,Lógica de Programação I,6
+5,Álgebra Linear,2
+6,ETL para dados,5
+7,SQL para Análise de Dados,8
+8,Python para Dados,9
+9,Estatística Avançada,10
+10,Planejamento de Carreira,3
+11,Biblioteca pandas,5
+12,Lógica de Programação II,6
+13,Banco de dados,8
+14,Soft skills,3
+15,Python com IA,9
